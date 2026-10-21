@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "name": "AniLife",
+      "lang": "ko",
+      "url": "https://raw.githubusercontent.com/piadhd888-ops/anilife-repo/main/javascript/anime/src/en/anilife.js"
+    }
+  ]
+}
